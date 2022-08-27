@@ -27,3 +27,20 @@ Based on the creation of AI Agents, like the creation of a Computer-generated Im
 ![image](https://user-images.githubusercontent.com/26171557/187051174-864f407a-19b5-4933-9fef-fc28ddd3a704.png)
 
 
+Via the Unity IDE it is possible to configure the camera settings and the lightning and also to implement AI mechanisms like the behavior of the virtual elements among other possible functionalities. The programming language used to develop the prototype was C# and some libraries and classes were imported in order to implement all the features of a mixed reality first person shooter for mobile phones compatible with some of the operating systems of the android family.
+   
+   Preview of the prototype ARFPS.
+
+Concerning the shooting system, a ray cast function was used taking in consideration direction, speed, position and distance and also spawner game object mechanisms in order for the bullets to appear after the verification of certain conditions like when the user presses the shooting button or when the AI agent or enemy is at a certain distance of the main player.
+ 
+ Placing the camera in the Unity Game Engine
+
+The animations follow a set of conditions and sequences in order to be activated, the picture below shows a schematic of the necessary order and trigger mechanisms associated to the animation transitions process during gameplay.
+
+Making animation transitions in Unity
+
+The animations follow an AI mechanism in order to provide more functionalities to MR systems as demonstrated in this prototype, it is possible to notice that the virtual elements can have more functionalities and interaction with the users. In the future will be possible that applications may have more uses from the real-world data captured by a sensor, the infrared (IR) cameras for example can provide night vision.
+The process of treating information has been improving and the AI strategies nowadays are able to treat huger amounts of data making predictions with a high rate of accuracy.
+The presented developed prototype illustrates a process of responding to the second research question by demonstrating a set of processes to achieve the proposed objective, for this demonstration was used the C# programming language and the Unity game engine among other technologies.
+
+
