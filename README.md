@@ -21,3 +21,9 @@ With JavaScript it is possible to develop applications that interact with the mo
 Learning activities can be more interactive and accessible for users of different ages and types of disabilities. Based on the context of training and to facilitate the performance of physiotherapeutic tasks a controller that detects, hands, arms, legs, head and feet was used to answer the third research question of this investigation.
 Based on the creation of AI Agents, like the creation of a Computer-generated Imagery (CGI) girl, the sensor which in this case is the webcam requires to capture the all body in order to associate geometries and bones. A virtual girl replicates the user movements on a projected Liquid Crystal Display (LCD) that aims to help in physiotherapeutic terms by providing movements and exercises that can help some motor disabilities. The prototype was developed in C# using the Game Engine Unity providing a Mixed Reality (MR) experience. On a perspective of virtual storytelling, this project uses a process of providing interactivity to the user for story creation.
 
+![image](https://user-images.githubusercontent.com/26171557/187051172-3ecf8ba0-f51e-4b7c-b426-c54dcbc2e1f0.png)
+
+
+![image](https://user-images.githubusercontent.com/26171557/187051174-864f407a-19b5-4933-9fef-fc28ddd3a704.png)
+
+
